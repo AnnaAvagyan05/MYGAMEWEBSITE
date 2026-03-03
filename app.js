@@ -1,0 +1,1 @@
+// JavaScript bundle for Game Search app
